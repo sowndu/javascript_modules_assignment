@@ -1,0 +1,13 @@
+.card {
+    border-radius: 8px;
+}
+
+#taskList .list-group-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#taskList .list-group-item .btn {
+    margin-left: 5px;
+}
